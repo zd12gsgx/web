@@ -1,0 +1,20 @@
+
+zhuomian.png
+size: 176,100
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouzh
+  rotate: false
+  xy: 103, 24
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+zuom0
+  rotate: false
+  xy: 0, 0
+  size: 102, 100
+  orig: 104, 100
+  offset: 1, 0
+  index: -1

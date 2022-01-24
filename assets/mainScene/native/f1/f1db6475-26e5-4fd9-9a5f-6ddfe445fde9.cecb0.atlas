@@ -1,0 +1,90 @@
+
+dragon.png
+size: 1345,1397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3a
+  rotate: false
+  xy: 945, 559
+  size: 274, 273
+  orig: 276, 276
+  offset: 1, 2
+  index: -1
+3b
+  rotate: false
+  xy: 634, 384
+  size: 310, 500
+  orig: 310, 500
+  offset: 0, 0
+  index: -1
+bbbb
+  rotate: false
+  xy: 634, 17
+  size: 609, 366
+  orig: 609, 366
+  offset: 0, 0
+  index: -1
+ef_1
+  rotate: false
+  xy: 1147, 960
+  size: 151, 151
+  orig: 190, 190
+  offset: 18, 19
+  index: -1
+ef_2
+  rotate: false
+  xy: 1147, 1112
+  size: 181, 285
+  orig: 198, 302
+  offset: 8, 6
+  index: -1
+ef_aura
+  rotate: false
+  xy: 1244, 789
+  size: 99, 43
+  orig: 101, 43
+  offset: 1, 0
+  index: -1
+ef_auraglow
+  rotate: false
+  xy: 1147, 833
+  size: 126, 126
+  orig: 128, 128
+  offset: 1, 1
+  index: -1
+ef_flare
+  rotate: false
+  xy: 1299, 1075
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+ef_line
+  rotate: false
+  xy: 1329, 1380
+  size: 2, 17
+  orig: 2, 17
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 0, 0
+  size: 633, 1397
+  orig: 633, 1397
+  offset: 0, 0
+  index: -1
+p_img_u0112
+  rotate: false
+  xy: 634, 885
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
+zhaohuan
+  rotate: false
+  xy: 945, 437
+  size: 400, 121
+  orig: 403, 123
+  offset: 1, 1
+  index: -1

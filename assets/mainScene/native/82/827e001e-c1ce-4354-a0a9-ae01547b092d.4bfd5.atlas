@@ -1,0 +1,20 @@
+
+an_dawei.png
+size: 103,186
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shouzh
+  rotate: false
+  xy: 0, 0
+  size: 73, 76
+  orig: 73, 76
+  offset: 0, 0
+  index: -1
+zuom0
+  rotate: false
+  xy: 0, 77
+  size: 103, 109
+  orig: 112, 113
+  offset: 3, 2
+  index: -1

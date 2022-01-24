@@ -1,0 +1,27 @@
+
+09_1.png
+size: 470,1564
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9-1
+  rotate: false
+  xy: 0, 0
+  size: 172, 1564
+  orig: 172, 1564
+  offset: 0, 0
+  index: -1
+9-2
+  rotate: false
+  xy: 173, 1315
+  size: 297, 249
+  orig: 297, 249
+  offset: 0, 0
+  index: -1
+9-3
+  rotate: false
+  xy: 173, 1112
+  size: 125, 202
+  orig: 131, 207
+  offset: 4, 3
+  index: -1
